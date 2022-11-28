@@ -22,8 +22,8 @@ This is a Weight Converter solution that converts pounds (lbs) to kilograms (kg)
 
 ### Links
 
-- Solution URL: [https://github.com/Makia98/OrderSummaryCard](https://github.com/Makia98/OrderSummaryCard)
-- Live Site URL: [https://makia98.github.io/OrderSummaryCard/](https://makia98.github.io/OrderSummaryCard/)
+- Solution URL: [https://github.com/Makia98/WeightConverter](https://github.com/Makia98/WeightConverter)
+- Live Site URL: [https://makia98.github.io/WeightConverter/](https://makia98.github.io/WeightConverter/)
 
 ## My process
 
