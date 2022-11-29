@@ -30,7 +30,6 @@ body {
     height: 30px;
     margin: 10px;
     border-color: #F89880;
-    font-size: 110%;
 }
 
 .input input:focus {
@@ -66,4 +65,11 @@ h1 {
     font-size: 50px;
     margin-bottom: -200px;
     text-transform: uppercase;
+}
+
+@media screen and (max-width: 510px) {
+    .converter-box {
+        display: flex;
+        flex-direction: column;
+    }
 }
